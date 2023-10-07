@@ -1,0 +1,400 @@
+INFO - 2023-09-23 21:25:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-09-23 21:25:10 --> Call to undefined function sesión()
+in APPPATH\Views\front\registrarse.php on line 15.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('front/registrarse', [], true)
+ 4 APPPATH\Controllers\Home.php(36): view('front/registrarse')
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->registrarse()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-09-23 21:26:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-09-23 21:26:07 --> Call to undefined function sessión()
+in APPPATH\Views\front\registrarse.php on line 15.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('front/registrarse', [], true)
+ 4 APPPATH\Controllers\Home.php(36): view('front/registrarse')
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->registrarse()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-09-23 21:27:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-09-23 21:27:06 --> Call to undefined function sessión()
+in APPPATH\Views\front\registrarse.php on line 15.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('front/registrarse', [], true)
+ 4 APPPATH\Controllers\Home.php(36): view('front/registrarse')
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->registrarse()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-09-23 21:27:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-09-23 21:27:49 --> Call to a member function getError() on null
+in APPPATH\Views\front\registrarse.php on line 25.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('front/registrarse', [], true)
+ 4 APPPATH\Controllers\Home.php(36): view('front/registrarse')
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->registrarse()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-09-23 21:28:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-09-23 21:28:54 --> Call to a member function getError() on null
+in APPPATH\Views\front\registrarse.php on line 25.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('front/registrarse', [], true)
+ 4 APPPATH\Controllers\Home.php(36): view('front/registrarse')
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->registrarse()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-09-23 21:28:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-09-23 21:28:58 --> Call to a member function getError() on null
+in APPPATH\Views\front\registrarse.php on line 25.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('front/registrarse', [], true)
+ 4 APPPATH\Controllers\Home.php(36): view('front/registrarse')
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->registrarse()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-09-23 21:30:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-09-23 21:30:34 --> Call to a member function getError() on null
+in APPPATH\Views\front\registrarse.php on line 25.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('front/registrarse', [], true)
+ 4 APPPATH\Controllers\Home.php(36): view('front/registrarse')
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->registrarse()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-09-23 21:30:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-09-23 21:30:38 --> Call to a member function getError() on null
+in APPPATH\Views\front\registrarse.php on line 25.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('front/registrarse', [], true)
+ 4 APPPATH\Controllers\Home.php(36): view('front/registrarse')
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->registrarse()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-09-23 21:31:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-09-23 21:31:26 --> Call to a member function getError() on null
+in APPPATH\Views\front\registrarse.php on line 25.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('front/registrarse', [], true)
+ 4 APPPATH\Controllers\Home.php(36): view('front/registrarse')
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->registrarse()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-09-23 21:32:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-09-23 21:32:17 --> Call to a member function getError() on null
+in APPPATH\Views\front\registrarse.php on line 25.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('front/registrarse', [], true)
+ 4 APPPATH\Controllers\Home.php(36): view('front/registrarse')
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->registrarse()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-09-23 21:32:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-09-23 21:32:23 --> Call to a member function getError() on null
+in APPPATH\Views\front\registrarse.php on line 25.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('front/registrarse', [], true)
+ 4 APPPATH\Controllers\Home.php(36): view('front/registrarse')
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->registrarse()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-23 21:36:01 --> syntax error, unexpected '/'
+in APPPATH\Views\front\registrarse.php on line 10.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('front/registrarse', [], true)
+ 3 APPPATH\Controllers\Home.php(36): view('front/registrarse')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->registrarse()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-09-23 21:37:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-09-23 21:37:31 --> Call to a member function getError() on null
+in APPPATH\Views\front\registrarse.php on line 25.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('front/registrarse', [], true)
+ 4 APPPATH\Controllers\Home.php(36): view('front/registrarse')
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->registrarse()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-23 21:42:13 --> syntax error, unexpected '}', expecting end of file
+in APPPATH\Views\front\registrarse.php on line 12.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('front/registrarse', [], true)
+ 3 APPPATH\Controllers\Home.php(36): view('front/registrarse')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->registrarse()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-09-23 21:43:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-09-23 21:43:52 --> Call to a member function getError() on null
+in APPPATH\Views\front\registrarse.php on line 25.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('front/registrarse', [], true)
+ 4 APPPATH\Controllers\Home.php(36): view('front/registrarse')
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->registrarse()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-09-23 21:44:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-23 21:48:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-23 21:50:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-23 21:53:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-23 22:04:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-23 22:05:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-23 22:09:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-23 22:10:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-23 22:10:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-09-23 22:10:25 --> Class 'App\Controllers\Controller' not found
+in APPPATH\Controllers\usuario_controller.php on line 6.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(314): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\primer_proyecto\\app\\Controllers\\usuario_controller.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\usuario_controller')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\usuario_controller')
+ 5 [internal function]: spl_autoload_call('App\\Controllers\\usuario_controller')
+ 6 SYSTEMPATH\CodeIgniter.php(890): class_exists('\\App\\Controllers\\usuario_controller', true)
+ 7 SYSTEMPATH\CodeIgniter.php(484): CodeIgniter\CodeIgniter->startController()
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-23 22:13:53 --> Class 'App\Controllers\Controller' not found
+in APPPATH\Controllers\usuario_controller.php on line 6.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(314): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\primer_proyecto\\app\\Controllers\\usuario_controller.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\usuario_controller')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\usuario_controller')
+ 5 [internal function]: spl_autoload_call('App\\Controllers\\usuario_controller')
+ 6 SYSTEMPATH\CodeIgniter.php(890): class_exists('\\App\\Controllers\\usuario_controller', true)
+ 7 SYSTEMPATH\CodeIgniter.php(484): CodeIgniter\CodeIgniter->startController()
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-23 22:13:58 --> Class 'App\Controllers\Controller' not found
+in APPPATH\Controllers\usuario_controller.php on line 6.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(314): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\primer_proyecto\\app\\Controllers\\usuario_controller.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\usuario_controller')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\usuario_controller')
+ 5 [internal function]: spl_autoload_call('App\\Controllers\\usuario_controller')
+ 6 SYSTEMPATH\CodeIgniter.php(890): class_exists('\\App\\Controllers\\usuario_controller', true)
+ 7 SYSTEMPATH\CodeIgniter.php(484): CodeIgniter\CodeIgniter->startController()
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-23 22:14:14 --> Class 'App\Controllers\Controller' not found
+in APPPATH\Controllers\usuario_controller.php on line 6.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(314): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\primer_proyecto\\app\\Controllers\\usuario_controller.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\usuario_controller')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\usuario_controller')
+ 5 [internal function]: spl_autoload_call('App\\Controllers\\usuario_controller')
+ 6 SYSTEMPATH\CodeIgniter.php(890): class_exists('\\App\\Controllers\\usuario_controller', true)
+ 7 SYSTEMPATH\CodeIgniter.php(484): CodeIgniter\CodeIgniter->startController()
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-23 22:19:55 --> Class 'App\Controllers\controller' not found
+in APPPATH\Controllers\usuario_controller.php on line 6.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(314): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\primer_proyecto\\app\\Controllers\\usuario_controller.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\usuario_controller')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\usuario_controller')
+ 5 [internal function]: spl_autoload_call('App\\Controllers\\usuario_controller')
+ 6 SYSTEMPATH\CodeIgniter.php(890): class_exists('\\App\\Controllers\\usuario_controller', true)
+ 7 SYSTEMPATH\CodeIgniter.php(484): CodeIgniter\CodeIgniter->startController()
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-23 22:23:23 --> Class 'App\Controllers\controller' not found
+in APPPATH\Controllers\usuario_controller.php on line 6.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(314): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\primer_proyecto\\app\\Controllers\\usuario_controller.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\usuario_controller')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\usuario_controller')
+ 5 [internal function]: spl_autoload_call('App\\Controllers\\usuario_controller')
+ 6 SYSTEMPATH\CodeIgniter.php(890): class_exists('\\App\\Controllers\\usuario_controller', true)
+ 7 SYSTEMPATH\CodeIgniter.php(484): CodeIgniter\CodeIgniter->startController()
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-09-23 22:24:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-23 22:24:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-23 22:24:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-09-23 22:24:28 --> Undefined variable: validation
+in APPPATH\Views\front\registrarse.php on line 31.
+ 1 APPPATH\Views\front\registrarse.php(31): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: validation', 'C:\\xampp\\htdocs\\primer_proyecto\\app\\Views\\front\\registrarse.php', 31, [...])
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\primer_proyecto\\app\\Views\\front\\registrarse.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('front/registrarse', [], true)
+ 5 APPPATH\Controllers\Home.php(36): view('front/registrarse')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->registrarse()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-09-23 22:25:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-23 22:25:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-23 22:25:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-23 22:25:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-23 22:25:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-23 22:26:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-09-23 22:26:53 --> Class 'App\Controllers\controller' not found
+in APPPATH\Controllers\usuario_controller.php on line 6.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(314): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\primer_proyecto\\app\\Controllers\\usuario_controller.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\usuario_controller')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\usuario_controller')
+ 5 [internal function]: spl_autoload_call('App\\Controllers\\usuario_controller')
+ 6 SYSTEMPATH\CodeIgniter.php(890): class_exists('\\App\\Controllers\\usuario_controller', true)
+ 7 SYSTEMPATH\CodeIgniter.php(484): CodeIgniter\CodeIgniter->startController()
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-23 22:27:47 --> Class 'App\Controllers\controller' not found
+in APPPATH\Controllers\usuario_controller.php on line 6.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(314): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\primer_proyecto\\app\\Controllers\\usuario_controller.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\usuario_controller')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\usuario_controller')
+ 5 [internal function]: spl_autoload_call('App\\Controllers\\usuario_controller')
+ 6 SYSTEMPATH\CodeIgniter.php(890): class_exists('\\App\\Controllers\\usuario_controller', true)
+ 7 SYSTEMPATH\CodeIgniter.php(484): CodeIgniter\CodeIgniter->startController()
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-23 22:28:48 --> Undefined variable: validate
+in APPPATH\Controllers\usuario_controller.php on line 25.
+ 1 APPPATH\Controllers\usuario_controller.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: validate', 'C:\\xampp\\htdocs\\primer_proyecto\\app\\Controllers\\usuario_controller.php', 25, [])
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Usuario_controller->formValidation()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-23 22:29:17 --> Class 'App\Controllers\controller' not found
+in APPPATH\Controllers\usuario_controller.php on line 6.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(314): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\primer_proyecto\\app\\Controllers\\usuario_controller.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\usuario_controller')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\usuario_controller')
+ 5 [internal function]: spl_autoload_call('App\\Controllers\\usuario_controller')
+ 6 SYSTEMPATH\CodeIgniter.php(890): class_exists('\\App\\Controllers\\usuario_controller', true)
+ 7 SYSTEMPATH\CodeIgniter.php(484): CodeIgniter\CodeIgniter->startController()
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-23 22:29:33 --> Undefined variable: validate
+in APPPATH\Controllers\usuario_controller.php on line 25.
+ 1 APPPATH\Controllers\usuario_controller.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: validate', 'C:\\xampp\\htdocs\\primer_proyecto\\app\\Controllers\\usuario_controller.php', 25, [])
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Usuario_controller->formValidation()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-23 22:31:52 --> "max_lenght" is not a valid rule.
+in SYSTEMPATH\Validation\Validation.php on line 286.
+ 1 SYSTEMPATH\Validation\Validation.php(286): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('max_lenght')
+ 2 SYSTEMPATH\Validation\Validation.php(182): CodeIgniter\Validation\Validation->processRules('email', 'email', 'gomezgra14@gmail.com', [...], [...])
+ 3 SYSTEMPATH\Controller.php(141): CodeIgniter\Validation\Validation->run()
+ 4 APPPATH\Controllers\usuario_controller.php(26): CodeIgniter\Controller->validate([...])
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Usuario_controller->formValidation()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_controller))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-23 22:33:53 --> "min_lenght" is not a valid rule.
+in SYSTEMPATH\Validation\Validation.php on line 286.
+ 1 SYSTEMPATH\Validation\Validation.php(286): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('min_lenght')
+ 2 SYSTEMPATH\Validation\Validation.php(182): CodeIgniter\Validation\Validation->processRules('nombre', 'nombre', 'Graciela', [...], [...])
+ 3 SYSTEMPATH\Controller.php(141): CodeIgniter\Validation\Validation->run()
+ 4 APPPATH\Controllers\usuario_controller.php(26): CodeIgniter\Controller->validate([...])
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Usuario_controller->formValidation()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_controller))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-23 22:44:50 --> "minlenght" is not a valid rule.
+in SYSTEMPATH\Validation\Validation.php on line 286.
+ 1 SYSTEMPATH\Validation\Validation.php(286): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('minlenght')
+ 2 SYSTEMPATH\Validation\Validation.php(182): CodeIgniter\Validation\Validation->processRules('nombre', 'nombre', 'Graciela', [...], [...])
+ 3 SYSTEMPATH\Controller.php(141): CodeIgniter\Validation\Validation->run()
+ 4 APPPATH\Controllers\usuario_controller.php(26): CodeIgniter\Controller->validate([...])
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Usuario_controller->formValidation()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_controller))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-23 22:47:28 --> Class 'App\Models\usuario_model' not found
+in APPPATH\Controllers\usuario_controller.php on line 33.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Usuario_controller->formValidation()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-23 22:48:36 --> Undefined property: App\Controllers\Usuario_controller::$vatidator
+in APPPATH\Controllers\usuario_controller.php on line 39.
+ 1 APPPATH\Controllers\usuario_controller.php(39): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: App\\Controllers\\Usuario_controller::$vatidator', 'C:\\xampp\\htdocs\\primer_proyecto\\app\\Controllers\\usuario_controller.php', 39, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Usuario_controller->formValidation()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-23 22:50:06 --> Undefined property: App\Controllers\Usuario_controller::$vatidator
+in APPPATH\Controllers\usuario_controller.php on line 39.
+ 1 APPPATH\Controllers\usuario_controller.php(39): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: App\\Controllers\\Usuario_controller::$vatidator', 'C:\\xampp\\htdocs\\primer_proyecto\\app\\Controllers\\usuario_controller.php', 39, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Usuario_controller->formValidation()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-23 22:54:17 --> Undefined property: App\Controllers\Usuario_controller::$vatidator
+in APPPATH\Controllers\usuario_controller.php on line 39.
+ 1 APPPATH\Controllers\usuario_controller.php(39): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: App\\Controllers\\Usuario_controller::$vatidator', 'C:\\xampp\\htdocs\\primer_proyecto\\app\\Controllers\\usuario_controller.php', 39, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Usuario_controller->formValidation()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-23 22:56:59 --> Undefined property: App\Controllers\Usuario_controller::$vatidator
+in APPPATH\Controllers\usuario_controller.php on line 39.
+ 1 APPPATH\Controllers\usuario_controller.php(39): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: App\\Controllers\\Usuario_controller::$vatidator', 'C:\\xampp\\htdocs\\primer_proyecto\\app\\Controllers\\usuario_controller.php', 39, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Usuario_controller->formValidation()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-23 22:58:12 --> Class 'App\Model\usuario_model' not found
+in APPPATH\Controllers\usuario_controller.php on line 33.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Usuario_controller->formValidation()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-23 22:59:16 --> Undefined property: App\Controllers\Usuario_controller::$vatidator
+in APPPATH\Controllers\usuario_controller.php on line 39.
+ 1 APPPATH\Controllers\usuario_controller.php(39): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: App\\Controllers\\Usuario_controller::$vatidator', 'C:\\xampp\\htdocs\\primer_proyecto\\app\\Controllers\\usuario_controller.php', 39, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Usuario_controller->formValidation()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-09-23 23:00:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-23 23:00:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-23 23:00:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-23 23:03:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-23 23:10:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-23 23:20:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-23 23:20:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-23 23:21:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-23 23:21:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-23 23:21:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-23 23:21:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-23 23:23:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-23 23:38:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-23 23:43:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-23 23:43:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-23 23:43:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-23 23:43:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-23 23:49:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-23 23:49:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-23 23:49:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
